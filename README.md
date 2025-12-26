@@ -1,4 +1,5 @@
 Semantic Book Recommendation System
+
 This repository contains the full end-to-end pipeline for a semantic, description-based book recommendation system. It includes data cleaning, vector-based retrieval, category normalization, emotion analysis, and a lightweight Gradio dashboard for interactive exploration.
 
 Repository Structure
